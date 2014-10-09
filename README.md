@@ -1,4 +1,4 @@
-chichago
+chicago
 ========
 
 IKS website
